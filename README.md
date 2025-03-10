@@ -12,7 +12,7 @@ Requirements:
     Python 3.x
     Django 5.x
 
-Installation
+Installation:
 
     Copy or download the repository files.
     Navigate to the project directory in CMD:
