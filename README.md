@@ -32,3 +32,8 @@ Installation:
 Testing:
     python manage.py test
 
+Credits:
+
+Author: Marek Jonak
+    GitHub: https://github.com/MyMayo
+
