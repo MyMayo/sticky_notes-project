@@ -1,0 +1,45 @@
+my_project/
+│
+├── components/
+│   ├── class_diagram.pdf
+│   ├── sequence_diagram.pdf
+│   ├── use_case_diagram.pdf
+│   ├── unit_tests.pdf
+│   └── directory.txt
+│
+├── myenv/
+│   ├── Lib/
+│   └── Scripts/
+│
+├── sticky_notes/
+│   ├── notes/
+│   │   ├── migrations/
+│   │   ├── static/
+│   │   │   └── css/
+│   │   │       └── styles.css
+│   │   ├── templates/
+│   │   │   └── notes/
+│   │   │       ├── base.html
+│   │   │       ├── note_confirm_delete.html
+│   │   │       ├── note_form.html
+│   │   │       └── note_list.html
+│   │   ├── __init__.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── forms.py
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   ├── urls.py
+│   │   └── views.py
+│   │
+│   ├── sticky_notes/
+│   │   ├── __init__.py
+│   │   ├── asgi.py
+│   │   ├── settings.py
+│   │   ├── urls.py
+│   │   └── wsgi.py
+│   │
+│   ├── db.sqlite3
+│   └── manage.py
+│
+└── requirements
