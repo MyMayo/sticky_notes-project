@@ -12,22 +12,23 @@ Requirements:
     Python 3.x
     Django 5.x
 
-Installation:
-1, Copy or download the repository files
-2, Navigate project directory in CMD:
-    cd your/project/path
-3, Set up a virtual environment and activate it:
-    python -m venv myenv
-    myenv\Scripts\activate  #For Windows
-    source myenv/bin/activate  #For Linux
-4, Install dependencies: 
-    pip install -r requirements.txt
-5, Apply the migration:
-    python manage.py migrate
-6, Run the server:
-    python manage.py runserver
-7, Open your browser:
-    http://127.0.0.1:8000/
+Installation
+
+    Copy or download the repository files.
+    Navigate to the project directory in CMD:
+        cd your/project/path
+    Set up a virtual environment and activate it:
+        python -m venv myenv
+        myenv\Scripts\activate (For Windows)
+        source myenv/bin/activate (For Linux)
+    Install dependencies:
+        pip install -r requirements.txt
+    Apply the migration:
+        python manage.py migrate
+    Run the server:
+        python manage.py runserver
+    Open your browser and visit:
+        http://127.0.0.1:8000/
 
 Testing:
     python manage.py test
